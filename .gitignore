@@ -74,3 +74,5 @@
 /ios/flutter_branch_sdk/.build
 /example/android/app/.cxx
 /ios/flutter_branch_sdk/.index-build
+config.bat
+node_modules
